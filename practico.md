@@ -24,7 +24,7 @@ A continuación, se muestran los comandos esenciales para gestionar paquetes en 
 - sudo dnf autoremove -y = (Este comando elimina dependencias que quedaron sin usar tras desinstalar paquetes.)
 
 ## Vídeo 
-![video](https://www.youtube.com/watch?v=2qPs0B0otPU&ab_channel=EzequielCh%C3%A1vez)
+[video](https://www.youtube.com/watch?v=2qPs0B0otPU&ab_channel=EzequielCh%C3%A1vez)
 
 
 
