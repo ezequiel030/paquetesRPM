@@ -10,6 +10,6 @@
 - '/etc/dnf/dnf.conf' = Archivo de configuración global de DNF.  
 </p>
 
-## Ejemplo de como se ve Rocky Linux
+### Ejemplo de como se ve Rocky Linux
 ![repositorios](img/cover.png)
 
