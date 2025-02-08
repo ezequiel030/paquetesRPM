@@ -4,8 +4,8 @@
 
 <p align="justify">
 📂 Ubicación de los archivos de repositorios:  
-- '/etc/yum.repos.d/' → Contiene archivos '.repo' con la configuración de los repositorios.  
-- '/etc/dnf/dnf.conf' → Archivo de configuración global de DNF.  
+- '/etc/yum.repos.d/' = Contiene archivos '.repo' con la configuración de los repositorios.  
+- '/etc/dnf/dnf.conf' = Archivo de configuración global de DNF.  
 </p>
 
 ![repositorios](img/cover.png)
