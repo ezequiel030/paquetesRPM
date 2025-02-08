@@ -1,5 +1,6 @@
 # Paquetes RPM
 
+![introduccion](img/RockyLinux.png)
 ## ÍNDICE
 
 1. [Introducción](introduccion.md)
