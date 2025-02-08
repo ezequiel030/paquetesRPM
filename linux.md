@@ -2,6 +2,8 @@
 
 <p align="justify">Rocky Linuxes: un sistema operativo basado en **RHEL (Red Hat Enterprise Linux)**, desarrollado como un reemplazo de **CentOS** tras su cambio de modelo en 2020. Es una distribución comunitaria, de código abierto y completamente compatible con RHEL, enfocada en estabilidad y soporte a largo plazo para entornos empresariales y de servidores. </p>
 
+![rocky](img/Rocky_Linux_9_Workstation_showing_GNOME_Shell_40.png)
+
 | **Característica**       | **Descripción** |
 |--------------------------|----------------------------------------------------------------------------------|
 | **Compatibilidad**       | 100% compatible con **Red Hat Enterprise Linux (RHEL)**. |
